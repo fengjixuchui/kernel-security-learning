@@ -144,6 +144,8 @@ Keep updating...
 68. 2024-CCS：[CountDown: Refcount-guided Fuzzing for Exposing Temporal Memory Errors in Linux Kernel](https://huhong789.github.io/papers/bai:countdown.pdf) —— [slides](https://huhong789.github.io/papers/bai:countdown-slides.pdf) 【[tool-countdown](https://github.com/psu-security-universe/countdown)】
 69. 2024-CCS：[Leveraging Binary Coverage for Effective Generation Guidance in Kernel Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/KBinCov_CCS24.pdf)
 70. 2024-CCS：[Toss a Fault to BpfChecker: Revealing Implementation Flaws for eBPF runtimes with Differential Fuzzing](https://www.yajin.org/papers/CCS2024_BpfChecker.pdf) —— 【[tool-BpfCheckerSource](https://github.com/bpfchecker/BpfCheckerSource)】
+71. 2025-NDSS：[Statically Discover Cross-Entry Use-After-Free Vulnerabilities in the Linux Kernel](https://www.ndss-symposium.org/ndss-paper/statically-discover-cross-entry-use-after-free-vulnerabilities-in-the-linux-kernel/)
+72. 2025-NDSS：[A Comprehensive Memory Safety Analysis of Bootloaders](https://www.ndss-symposium.org/ndss-paper/a-comprehensive-memory-safety-analysis-of-bootloaders/)
 
 #### （3）kernel defense
 
